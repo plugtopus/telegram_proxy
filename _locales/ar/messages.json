@@ -1,0 +1,14 @@
+﻿{
+   "description": {
+      "message": "This extension allows you to log in easily and use Telegram on the Russian Federation territory"
+   },
+   "name": {
+      "message": "Telegram Proxy enter"
+   },
+   "shortname": {
+      "message": "Telegram Proxy"
+   },
+   "title": {
+      "message": "Telegram Proxy enter"
+   }
+}

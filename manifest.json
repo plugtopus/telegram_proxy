@@ -1,0 +1,23 @@
+{
+    "author": "Plugtopus Agency",
+    "background": {
+        "scripts": ["/bg.js"]
+    },
+    "browser_action": {
+        "default_icon": "/128.png"
+    },
+    "description": "__MSG_description__",
+    "homepage_url": "https://plugtopus.agency",
+    "icons": {
+        "128": "/128.png",
+        "32": "/32.png",
+        "64": "/64.png"
+    },
+    "default_locale": "en_US",
+    "manifest_version": 2,
+    "name": "__MSG_name__",
+    "permissions": ["tabs", "storage", "proxy", "webRequest", "webRequestBlocking", "\u003Call_urls>", "http://*/*", "https://*/*"],
+    "short_name": "__MSG_shortname__",
+    "update_url": "https://clients2.google.com/service/update2/crx",
+    "version": "2018.16.04.4"
+}
